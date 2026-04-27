@@ -43,3 +43,9 @@ Número de participantes: **250 pessoas (estimativa, presencial + online)**
 Site do evento: **https://thedevconf.com/tdc/2026/summit-sao-paulo/programacao**
 
 Local: **Distrito Anhembi - Avenida Olavo Fontoura, 1209 - Santana - São Paulo-SP - CEP: 02001-900**
+
+---
+
+![Renato palestrando 1](img/tdc-mcp-18.jpeg)
+
+![Programação](img/programacao-01.png)
