@@ -36,7 +36,7 @@ Evento: **TDC Summit IA São Paulo 2026**
 
 Data: **24/04/2026 (sexta-feira)**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Kubernetes, Application Insights, Azure Monitor, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
+Tecnologias e tópicos abordados: **MCP, Inteligência Artificial, .NET, Python, Microsoft Foundry, Microsoft Agent Framework, OpenTelemetry, Application Insights, Azure Monitor, Azure Log Analytics, Azure API Management, Azure App Service, Azure Container Apps, Kubernetes, Azure Kubernetes Service, Docker, npm, NuGet, Java, Node.js, k6, Grafana, Azure Managed Grafana, OWASP...**
 
 Número de participantes: **250 pessoas (estimativa, presencial + online)**
 
