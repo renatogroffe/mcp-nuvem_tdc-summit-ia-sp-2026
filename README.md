@@ -48,4 +48,12 @@ Local: **Distrito Anhembi - Avenida Olavo Fontoura, 1209 - Santana - São Paulo-
 
 ![Renato palestrando 1](img/tdc-mcp-18.jpeg)
 
+![Renato palestrando 2](img/tdc-mcp-09.jpeg)
+
+![Renato palestrando 3](img/tdc-mcp-12.jpeg)
+
+![Renato palestrando 4](img/tdc-mcp-11.jpeg)
+
+![Renato palestrando 5](img/tdc-mcp-26.jpeg)
+
 ![Programação](img/programacao-01.png)
